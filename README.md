@@ -1,6 +1,6 @@
 - 👋 Hi, This's @fiyud
-- 👀 I’m interested in AI/ML
-- 🌱 I'm currently a Research student at Intelligent Control and Artificial Intelligence Laboratory. His research interests include AI/ML, IoT systems, Cognitive Behavior and Law.
+- 🌱 I'm currently a Research student at Intelligent Control and Artificial Intelligence Laboratory.
+- 👀 My research interests include AI/ML, IoT systems, Cognitive Behavior and Law. 
 - 📫 How to reach me anhnd@vnuis.edu.vn  
 
 <!---
