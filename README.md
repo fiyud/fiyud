@@ -1,5 +1,5 @@
 - 👋 Hi, This's @fiyud
-- 🌱 I'm currently a Research student at Intelligent Control and Artificial Intelligence Laboratory.
+- 🌱 I'm currently a Research student at Intelligent Control and Artificial Intelligence Laboratory, Cognitive Machine Intelligence (CoMI) and Computer Vision and Robotics (CVR).
 - 👀 My research interests include AI/ML, IoT systems, Cognitive Behavior and Law. 
 - 📫 How to reach me anhnd@vnuis.edu.vn  
 
